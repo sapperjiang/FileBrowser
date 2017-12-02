@@ -1,0 +1,27 @@
+E:\soft Project\MyFileBrowser\ConfigOperatorLib\bin\Debug\ConfigOperatorLib.dll
+E:\soft Project\MyFileBrowser\ConfigOperatorLib\bin\Debug\ConfigOperatorLib.pdb
+E:\soft Project\MyFileBrowser\ConfigOperatorLib\obj\Debug\ResolveAssemblyReference.cache
+E:\soft Project\MyFileBrowser\ConfigOperatorLib\obj\Debug\ConfigOperatorLib.dll
+E:\soft Project\MyFileBrowser\ConfigOperatorLib\obj\Debug\ConfigOperatorLib.pdb
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\bin\Debug\ConfigOperatorLib.dll
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\bin\Debug\ConfigOperatorLib.pdb
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\obj\Debug\ResolveAssemblyReference.cache
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\obj\Debug\ConfigOperatorLib.dll
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\obj\Debug\ConfigOperatorLib.pdb
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Design.dll
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Docking.dll
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+Z:\w我的文档\MyFileBrowser\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\bin\Debug\ConfigOperatorLib.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\bin\Debug\ConfigOperatorLib.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Design.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Docking.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\obj\Debug\ConfigOperatorLib.csprojResolveAssemblyReference.cache
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\obj\Debug\ConfigOperatorLib.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\ConfigOperatorLib\obj\Debug\ConfigOperatorLib.pdb

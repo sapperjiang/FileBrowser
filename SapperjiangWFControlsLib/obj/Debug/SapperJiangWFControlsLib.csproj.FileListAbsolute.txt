@@ -1,0 +1,27 @@
+E:\soft Project\MyFileBrowser\SapperjiangWFControlsLib\bin\Debug\SapperjiangWFControlsLib.dll
+E:\soft Project\MyFileBrowser\SapperjiangWFControlsLib\bin\Debug\SapperjiangWFControlsLib.pdb
+E:\soft Project\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\ResolveAssemblyReference.cache
+E:\soft Project\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\SapperJiangWFControlsLib.MyKryptionItem.resources
+E:\soft Project\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\GenerateResource.read.1.tlog
+E:\soft Project\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\GenerateResource.write.1.tlog
+E:\soft Project\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\SapperjiangWFControlsLib.dll
+E:\soft Project\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\SapperjiangWFControlsLib.pdb
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\ResolveAssemblyReference.cache
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\SapperJiangWFControlsLib.MyKryptionItem.resources
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\GenerateResource.read.1.tlog
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\GenerateResource.write.1.tlog
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\bin\Debug\SapperjiangWFControlsLib.dll
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\bin\Debug\SapperjiangWFControlsLib.pdb
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\SapperjiangWFControlsLib.dll
+Z:\w我的文档\MyFileBrowser\SapperjiangWFControlsLib\obj\Debug\SapperjiangWFControlsLib.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\SapperjiangWFControlsLib\bin\Debug\SapperjiangWFControlsLib.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\SapperjiangWFControlsLib\bin\Debug\SapperjiangWFControlsLib.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\SapperjiangWFControlsLib\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\SapperjiangWFControlsLib\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\SapperjiangWFControlsLib\obj\Debug\SapperJiangWFControlsLib.csprojResolveAssemblyReference.cache
+Z:\software\r我的软件项目\MyFileBrowserNew\SapperjiangWFControlsLib\obj\Debug\SapperJiangWFControlsLib.MyKryptionItem.resources
+Z:\software\r我的软件项目\MyFileBrowserNew\SapperjiangWFControlsLib\obj\Debug\SapperJiangWFControlsLib.csproj.GenerateResource.Cache
+Z:\software\r我的软件项目\MyFileBrowserNew\SapperjiangWFControlsLib\obj\Debug\SapperjiangWFControlsLib.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\SapperjiangWFControlsLib\obj\Debug\SapperjiangWFControlsLib.pdb

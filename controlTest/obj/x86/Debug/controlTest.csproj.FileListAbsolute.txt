@@ -1,0 +1,29 @@
+<<<<<<< .mine
+E:\soft Project\MyFileBrowser\controlTest\bin\Debug\controlTest.exe
+E:\soft Project\MyFileBrowser\controlTest\bin\Debug\controlTest.pdb
+E:\soft Project\MyFileBrowser\controlTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\soft Project\MyFileBrowser\controlTest\obj\x86\Debug\controlTest.Form1.resources
+E:\soft Project\MyFileBrowser\controlTest\obj\x86\Debug\controlTest.Properties.Resources.resources
+E:\soft Project\MyFileBrowser\controlTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\soft Project\MyFileBrowser\controlTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\soft Project\MyFileBrowser\controlTest\obj\x86\Debug\controlTest.exe
+E:\soft Project\MyFileBrowser\controlTest\obj\x86\Debug\controlTest.pdb
+=======
+E:\soft Project\MyFileBrowser\controlTest\bin\Debug\WFMyCmBox.dll
+E:\soft Project\MyFileBrowser\controlTest\bin\Debug\WFMyCmBox.pdb
+>>>>>>> .r4
+Z:\w我的文档\MyFileBrowser\controlTest\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\w我的文档\MyFileBrowser\controlTest\obj\x86\Debug\controlTest.Form1.resources
+Z:\w我的文档\MyFileBrowser\controlTest\obj\x86\Debug\controlTest.Properties.Resources.resources
+Z:\w我的文档\MyFileBrowser\controlTest\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\w我的文档\MyFileBrowser\controlTest\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\w我的文档\MyFileBrowser\controlTest\obj\x86\Debug\controlTest.exe
+Z:\w我的文档\MyFileBrowser\controlTest\obj\x86\Debug\controlTest.pdb
+Z:\w我的文档\MyFileBrowser\controlTest\bin\Debug\controlTest.exe
+Z:\w我的文档\MyFileBrowser\controlTest\bin\Debug\controlTest.pdb
+Z:\w我的文档\MyFileBrowser\controlTest\bin\Debug\ComponentFactory.Krypton.Design.dll
+Z:\w我的文档\MyFileBrowser\controlTest\bin\Debug\ComponentFactory.Krypton.Docking.dll
+Z:\w我的文档\MyFileBrowser\controlTest\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+Z:\w我的文档\MyFileBrowser\controlTest\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+Z:\w我的文档\MyFileBrowser\controlTest\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+Z:\w我的文档\MyFileBrowser\controlTest\bin\Debug\ComponentFactory.Krypton.Workspace.dll

@@ -1,0 +1,57 @@
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\MyFileBrowser.exe.config
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\MyFileBrowser.exe
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\MyFileBrowser.pdb
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\IrisSkin2.dll
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\log4net.dll
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\Lucene.Net.dll
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\SapperjiangWFControlsLib.dll
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\VolumeDeviceLib.dll
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\SapperjiangWFControlsLib.pdb
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\VolumeDeviceLib.pdb
+E:\soft Project\MyFileBrowser\MyFileBrowser\obj\Debug\ResolveAssemblyReference.cache
+E:\soft Project\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.MainForm.resources
+E:\soft Project\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.OptionMenu.resources
+E:\soft Project\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.Forms.MenuForm.resources
+E:\soft Project\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.Properties.Resources.resources
+E:\soft Project\MyFileBrowser\MyFileBrowser\obj\Debug\GenerateResource.read.1.tlog
+E:\soft Project\MyFileBrowser\MyFileBrowser\obj\Debug\GenerateResource.write.1.tlog
+E:\soft Project\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.exe
+E:\soft Project\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.pdb
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\ConfigOperatorLib.dll
+E:\soft Project\MyFileBrowser\MyFileBrowser\bin\Debug\ConfigOperatorLib.pdb
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\obj\Debug\ResolveAssemblyReference.cache
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.MainForm.resources
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.OptionMenu.resources
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.Forms.MenuForm.resources
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.Properties.Resources.resources
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\obj\Debug\GenerateResource.read.1.tlog
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\obj\Debug\GenerateResource.write.1.tlog
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.exe
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\obj\Debug\MyFileBrowser.pdb
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\bin\Debug\MyFileBrowser.exe.config
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\bin\Debug\MyFileBrowser.exe
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\bin\Debug\MyFileBrowser.pdb
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\bin\Debug\ConfigOperatorLib.dll
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\bin\Debug\SapperjiangWFControlsLib.dll
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\bin\Debug\VolumeDeviceLib.dll
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\bin\Debug\ConfigOperatorLib.pdb
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\bin\Debug\SapperjiangWFControlsLib.pdb
+Z:\w我的文档\MyFileBrowser\MyFileBrowser\bin\Debug\VolumeDeviceLib.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\MyFileBrowser.exe.config
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\obj\Debug\MyFileBrowser.exe
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\obj\Debug\MyFileBrowser.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\MyFileBrowser.exe
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\MyFileBrowser.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\ConfigOperatorLib.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\Lucene.Net.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\SapperjiangWFControlsLib.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\VolumeDeviceLib.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\ConfigOperatorLib.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\SapperjiangWFControlsLib.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\bin\Debug\VolumeDeviceLib.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\obj\Debug\MyFileBrowser.csprojResolveAssemblyReference.cache
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\obj\Debug\MyFileBrowser.MainForm.resources
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\obj\Debug\MyFileBrowser.OptionMenu.resources
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\obj\Debug\MyFileBrowser.Forms.MenuForm.resources
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\obj\Debug\MyFileBrowser.Properties.Resources.resources
+Z:\software\r我的软件项目\MyFileBrowserNew\MyFileBrowser\obj\Debug\MyFileBrowser.csproj.GenerateResource.Cache

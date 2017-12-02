@@ -1,0 +1,15 @@
+E:\soft Project\MyFileBrowser\VolumeDeviceLib\bin\Debug\VolumeDeviceLib.dll
+E:\soft Project\MyFileBrowser\VolumeDeviceLib\bin\Debug\VolumeDeviceLib.pdb
+E:\soft Project\MyFileBrowser\VolumeDeviceLib\obj\Debug\ResolveAssemblyReference.cache
+E:\soft Project\MyFileBrowser\VolumeDeviceLib\obj\Debug\VolumeDeviceLib.dll
+E:\soft Project\MyFileBrowser\VolumeDeviceLib\obj\Debug\VolumeDeviceLib.pdb
+Z:\w我的文档\MyFileBrowser\VolumeDeviceLib\bin\Debug\VolumeDeviceLib.dll
+Z:\w我的文档\MyFileBrowser\VolumeDeviceLib\bin\Debug\VolumeDeviceLib.pdb
+Z:\w我的文档\MyFileBrowser\VolumeDeviceLib\obj\Debug\ResolveAssemblyReference.cache
+Z:\w我的文档\MyFileBrowser\VolumeDeviceLib\obj\Debug\VolumeDeviceLib.dll
+Z:\w我的文档\MyFileBrowser\VolumeDeviceLib\obj\Debug\VolumeDeviceLib.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\VolumeDeviceLib\bin\Debug\VolumeDeviceLib.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\VolumeDeviceLib\bin\Debug\VolumeDeviceLib.pdb
+Z:\software\r我的软件项目\MyFileBrowserNew\VolumeDeviceLib\obj\Debug\VolumeDeviceLib.csprojResolveAssemblyReference.cache
+Z:\software\r我的软件项目\MyFileBrowserNew\VolumeDeviceLib\obj\Debug\VolumeDeviceLib.dll
+Z:\software\r我的软件项目\MyFileBrowserNew\VolumeDeviceLib\obj\Debug\VolumeDeviceLib.pdb

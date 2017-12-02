@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map version="0.8.1">
+  <node CREATED="1503277376448" ID="3hmu196ttgnl5h960mlp2l1710" MODIFIED="1503277376448" TEXT="与车慧达公司合作">
+    <font NAME="SansSerif" SIZE="14"/>
+    <node CREATED="1503277376448" ID="7no5elnq09h12b5ldj7v5vh723" MODIFIED="1503277376448" POSITION="right" TEXT="UBI市场分析">
+      <edge STYLE="bezier" WIDTH="4"/>
+      <node CREATED="1503277376449" ID="1brq2b2hskhkifa318f5hre96r" MODIFIED="1503277376449" TEXT="&lt;html&gt;&lt;img src=&quot;images/0qgn1eijp8hvogl3tuqjmj3no7.png&quot;&gt;"/>
+    </node>
+    <node CREATED="1503277376502" ID="581viu0flcoh15sakpta9i5ae0" MODIFIED="1503277376503" POSITION="right" TEXT="该司的市场地位">
+      <edge STYLE="bezier" WIDTH="4"/>
+      <node CREATED="1503277376503" ID="34aauosnma0k6boi3q6u7d0aov" MODIFIED="1503277376503" TEXT="市场规模">
+        <edge STYLE="bezier"/>
+        <node CREATED="1503277376503" ID="62c8s94uu3b2k7sr6gs9oa29as" MODIFIED="1503277376503" TEXT="接入重载货运车辆30万辆，占据重载货运车辆的7%"/>
+        <node CREATED="1503277376503" ID="7o4qqdmvl8mlut4fgjn39ktluj" MODIFIED="1503277376504" TEXT="重载货运车辆车险赔付率为70%"/>
+      </node>
+      <node CREATED="1503277376504" ID="5qerp3semuj7eotec0jr8usu2p" MODIFIED="1503277376504" TEXT="进度">
+        <edge STYLE="bezier"/>
+        <node CREATED="1503277376504" ID="0tk6u4aqvt33pun6c8ip3v9v50" MODIFIED="1503277376504" TEXT="已于多家保险公司开展业务合作，并已在赚取利润"/>
+      </node>
+      <node CREATED="1503277376504" ID="39v4fcvu205qtngqpp7irh0hbg" MODIFIED="1503277376504" TEXT="核心优势">
+        <edge STYLE="bezier"/>
+        <node CREATED="1503277376504" ID="1irk7nou0ko14l3jju6lnt1a2i" MODIFIED="1503277376504" TEXT="已得到保险公司验证的UBI商务模式"/>
+        <node CREATED="1503277376504" ID="59gss3jtk6du5p2r21rnll81ob" MODIFIED="1503277376504" TEXT="成熟的UBI模型算法"/>
+        <node CREATED="1503277376504" ID="1f8ojklu55knqg8kscj1rt2jq0" MODIFIED="1503277376504" TEXT="安全管车APP优势"/>
+      </node>
+    </node>
+    <node CREATED="1503277376505" ID="4v1ehvcloktqolaoa01l1b4kal" MODIFIED="1503277376505" POSITION="right" TEXT="对我司的核心价值">
+      <edge STYLE="bezier" WIDTH="4"/>
+      <node CREATED="1503277376506" ID="5jaud4tmdkhmmh7dmsm6baprqn" MODIFIED="1503277376506" TEXT="我司的商业模式不确定，该公司有得到验证的UBI商务运行模式以及优秀的领导团队，可为我司提供借鉴">
+        <edge STYLE="bezier"/>
+      </node>
+      <node CREATED="1503277376506" ID="5cr23me48198o3tf411dvshtph" MODIFIED="1503277376506" TEXT="该司有得到保险公司认可的UBI模型算法，节省我司对算法研究的时间和人力成本">
+        <edge STYLE="bezier"/>
+      </node>
+      <node CREATED="1503277376506" ID="1bsabntfg4tmm238f28gcas0i1" MODIFIED="1503277376506" TEXT="我司目前只在危化品车市场，可填补在重载货运市场的空白">
+        <edge STYLE="bezier"/>
+      </node>
+      <node CREATED="1503277376506" ID="2v7ho72o0jne36krrfr1c1nsts" MODIFIED="1503277376506" TEXT="赔付率的数据资源优势（如何从保监会拿到？）">
+        <edge STYLE="bezier"/>
+      </node>
+    </node>
+    <node CREATED="1503277376507" ID="0kqb0fjon50l7lnf43rrve9ik0" MODIFIED="1503277376507" POSITION="right" TEXT="该司潜在投资公司">
+      <edge STYLE="bezier" WIDTH="4"/>
+      <node CREATED="1503277376507" ID="78sbt3sjugl60igco83h1bme62" MODIFIED="1503277376507" TEXT="中交兴路">
+        <edge STYLE="bezier"/>
+        <node CREATED="1503277376507" ID="4iljq4ctp9sfjpm012tcnc2n8l" MODIFIED="1503277376507" TEXT="与阳光财险达成战略合作，并已收购一家保险代理公司"/>
+        <node CREATED="1503277376507" ID="63rld6k50lu8andn2mqf6nki69" MODIFIED="1503277376508" TEXT="重载货车车联网数据保险应用已开始在中保信试点"/>
+      </node>
+      <node CREATED="1503277376508" ID="4bqp3sbofhtmqlghlbnnvaba28" MODIFIED="1503277376508" TEXT="星河互联">
+        <edge STYLE="bezier"/>
+        <node CREATED="1503277376508" ID="2eum0d7loa87rp4smm4ot7n7ts" MODIFIED="1503277376508" TEXT="2017年3月获得天使轮600万融资"/>
+      </node>
+    </node>
+    <node CREATED="1503277376508" ID="4sulfa0e71pgtj288non4cs4u1" MODIFIED="1503277376508" POSITION="left" TEXT="为什么选择新智认知">
+      <edge STYLE="bezier" WIDTH="4"/>
+      <node CREATED="1503277376509" ID="59vfjsl4073prl1ln3fkohkcqr" MODIFIED="1503277376509" TEXT="我司是上市公司，有雄厚的资金优势">
+        <edge STYLE="bezier"/>
+      </node>
+      <node CREATED="1503277376509" ID="4nnchvermgu6lkt2953hudu853" MODIFIED="1503277376509" TEXT="技术雄厚、市场经验丰富，是交通数据挖掘细分领域的龙头企业">
+        <edge STYLE="bezier"/>
+      </node>
+      <node CREATED="1503277376509" ID="4e1hrqc45t8rsph3v7b6khffk6" MODIFIED="1503277376509" TEXT="我司具有京津冀课题国家重大专项的优势">
+        <edge STYLE="bezier"/>
+      </node>
+      <node CREATED="1503277376509" ID="1dmsop08jll86j3n7o72frheni" MODIFIED="1503277376509" TEXT="与交通部三大院有相关战略合作，具备政策咨询的优势">
+        <edge STYLE="bezier"/>
+      </node>
+      <node CREATED="1503277376509" ID="4p1uvv0g2pp7luluav7d7vbcee" MODIFIED="1503277376509" TEXT="已在新奥物流安装ADAS+AI设备，具备车辆完整画像的数据资源优势">
+        <edge STYLE="bezier"/>
+      </node>
+    </node>
+    <node CREATED="1503277376509" ID="6pjhuppe9p0r5d3t6nb4cdo1vp" MODIFIED="1503277376509" POSITION="left" TEXT="合作建议">
+      <edge STYLE="bezier" WIDTH="4"/>
+      <node CREATED="1503277376510" ID="2u2t6vl6c4t4ddkfugq1n3kitq" MODIFIED="1503277376510" TEXT="与该公司合作可满足我司现有创新业务发展要求">
+        <edge STYLE="bezier"/>
+      </node>
+      <node CREATED="1503277376510" ID="572el3j9pg8s6eurhbhbsnvhom" MODIFIED="1503277376510" TEXT="大数据增值业务是未来智能交通发展方向，UBI是大数据增值服务中的一块大蛋糕">
+        <edge STYLE="bezier"/>
+      </node>
+      <node CREATED="1503277376510" ID="14sish1hhfnv7h49v8fqcpadq6" MODIFIED="1503277376510" TEXT="建议我司与该公司合作">
+        <edge STYLE="bezier"/>
+      </node>
+    </node>
+  </node>
+</map>
